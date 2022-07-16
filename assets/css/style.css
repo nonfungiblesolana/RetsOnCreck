@@ -344,12 +344,12 @@ header .logo img {
     font-weight: 600;
     font-size: 2.25rem;
     line-height: 32px;
-    color: #fff;
+    color: #c99f67;
     height: 100px;
     cursor: pointer;
     transition-duration: 0.3s;
     justify-content: center !important;
-    background: linear-gradient( 87.22deg, #1978f3 5.62%, #00b4ff 50.96% );
+    background: #f3e2d0;
     margin-top: 20px;
     margin-bottom: 10px;
     transition: 0.5s;
