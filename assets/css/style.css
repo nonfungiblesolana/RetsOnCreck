@@ -16,7 +16,7 @@ body {
     
     overflow-x: hidden;
     font-family: 'BebasNeue', sans-serif;
-    background-color: #000;
+    background: url("../img/bg.JPG") 0% 0% / cover no-repeat;
     color: rgb(0, 0, 0);
     display: flex;
     justify-content: center;
