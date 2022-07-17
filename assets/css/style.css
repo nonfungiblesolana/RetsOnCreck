@@ -16,7 +16,7 @@ body {
     
     overflow-x: hidden;
     font-family: 'BebasNeue', sans-serif;
-    background-color: #fffaf1;
+    background-color: #000;
     color: rgb(0, 0, 0);
     display: flex;
     justify-content: center;
@@ -79,7 +79,7 @@ header .logo img {
     font-size: 22px;
     padding: 10px;
     transition: all 0.4s ease 0s;
-    color: #000;
+    color: #fff;
 }
 
 .social-list li a img,
@@ -112,10 +112,11 @@ header .logo img {
 
 .main-area__right {
     width: 100%;
-    border: 5px solid #149948;
+    border: 5px solid;
+    border-image: linear-gradient( 87.22deg, #1978f3 5.62%, #00b4ff 50.96% ) 1;
     padding: 40px;
     position: relative;
-    background: #fffaf1;
+    background: #000;
     margin-top: 96px;
     margin-bottom: 24px;
     
@@ -156,13 +157,13 @@ header .logo img {
 .token {
     width: 60%;
     margin-top: 25px;
-    color: #000
+    color: #fff
 }
 
 .token-title {
     margin-top: 24px;
     margin-bottom: 8px;
-    color: #000;
+    color: #fff;
     font-weight: 500;
     font-size: 12px;
 }
@@ -183,7 +184,7 @@ header .logo img {
 .token-line .progress-line {
     position: absolute;
     inset: 0px;
-    background: #149948;
+    background: linear-gradient( 87.22deg, #1978f3 5.62%, #00b4ff 50.96% );
     height: 5px;
     border-radius: 6px;
 }
@@ -226,7 +227,7 @@ header .logo img {
     background: rgba(151, 151, 151, 0.25);
     font-size: 26px;
     font-weight: 400;
-    color: #000;
+    color: #fff;
     padding: 10px 20px;
     border-radius: 6px;
 }
@@ -261,14 +262,14 @@ header .logo img {
 
 .price-box {
     font-size: 10px;
-    color: #000;
+    color: #fff;
     line-height: 170%;
 }
 
 .right-title {
     position: relative;
     font-size: 36px;
-    color: #000;
+    color: #fff;
     font-weight: 900;
     margin: 0px 0px 20px;
     padding: 0 20px;
@@ -317,7 +318,7 @@ header .logo img {
 }
 
 .price {
-    color: #000;
+    color: #fff;
     margin: 10px 0px 30px;
     display: flex;
     align-items: center;
@@ -345,12 +346,12 @@ header .logo img {
     font-weight: 600;
     font-size: 2.25rem;
     line-height: 32px;
-    color: #fffaf1;
+    color: #fff;
     height: 100px;
     cursor: pointer;
     transition-duration: 0.3s;
     justify-content: center !important;
-    background: #149948;
+    background: linear-gradient( 87.22deg, #1978f3 5.62%, #00b4ff 50.96% );
     margin-top: 20px;
     margin-bottom: 10px;
     transition: 0.5s;
@@ -358,7 +359,7 @@ header .logo img {
 }
 
 .mintingTitle {
-    color: #000;
+    color: #fff;
     display: block;
     font-size: 1rem;
     text-align: center;
@@ -370,7 +371,7 @@ header .logo img {
 
 
 .wallet-address {
-    color: #000;
+    color: #fff;
     text-shadow: rgb(0, 162, 209) 0px 4px 3px;
     text-align: center;
     display: none;
@@ -427,7 +428,7 @@ header .logo img {
     .token{
     width: 60%;
     margin-top: 50px;
-    color: #000;
+    color: #fff;
     }
 
     .wallet-adapter-button .wallet-adapter-button-start-icon {
