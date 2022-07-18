@@ -113,7 +113,7 @@ header .logo img {
 .main-area__right {
     width: 100%;
     border: 5px solid;
-    border-image: linear-gradient( 87.22deg, #f31919 5.62%, #ff0000 50.96% ) 1;
+    border-image: linear-gradient( 87.22deg, #f31919 5.62%, #cc1800 50.96% ) 1;
     padding: 40px;
     position: relative;
     background: #000;
@@ -184,7 +184,7 @@ header .logo img {
 .token-line .progress-line {
     position: absolute;
     inset: 0px;
-    background: linear-gradient( 87.22deg, #f31919 5.62%, #ff0000 50.96% );
+    background: linear-gradient( 87.22deg, #f31919 5.62%, #cc1800 50.96% );
     height: 5px;
     border-radius: 6px;
 }
@@ -351,7 +351,7 @@ header .logo img {
     cursor: pointer;
     transition-duration: 0.3s;
     justify-content: center !important;
-    background: linear-gradient( 87.22deg, #f31919 5.62%, #ff0000 50.96% );
+    background: linear-gradient( 87.22deg, #f31919 5.62%, #cc1800 50.96% );
     margin-top: 20px;
     margin-bottom: 10px;
     transition: 0.5s;
