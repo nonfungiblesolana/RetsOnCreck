@@ -16,7 +16,7 @@ body {
     
     overflow-x: hidden;
     font-family: 'BebasNeue', sans-serif;
-    background-color: #000;
+    background: url("../img/bgreptilians.jpg") 0% 0% / cover no-repeat;
     color: rgb(0, 0, 0);
     display: flex;
     justify-content: center;
@@ -116,7 +116,7 @@ header .logo img {
     border-image: linear-gradient( 87.22deg, #d3bf69 5.62%, #af934c 50.96% ) 1;
     padding: 40px;
     position: relative;
-    background: #000;
+    background: url("../img/bgreptilians.jpg") 0% 0% / cover no-repeat;
     margin-top: 96px;
     margin-bottom: 24px;
     
