@@ -79,7 +79,7 @@ header .logo img {
     font-size: 22px;
     padding: 10px;
     transition: all 0.4s ease 0s;
-    color: #15e8d3;
+    color: #fff;
 }
 
 .social-list li a img,
@@ -157,13 +157,13 @@ header .logo img {
 .token {
     width: 60%;
     margin-top: 25px;
-    color: #15e8d3
+    color: #fff
 }
 
 .token-title {
     margin-top: 24px;
     margin-bottom: 8px;
-    color: #15e8d3;
+    color: #fff;
     font-weight: 500;
     font-size: 12px;
 }
@@ -227,7 +227,7 @@ header .logo img {
     background: rgba(151, 151, 151, 0.25);
     font-size: 26px;
     font-weight: 400;
-    color: #15e8d3;
+    color: #fff;
     padding: 10px 20px;
     border-radius: 6px;
 }
@@ -262,14 +262,14 @@ header .logo img {
 
 .price-box {
     font-size: 10px;
-    color: #15e8d3;
+    color: #fff;
     line-height: 170%;
 }
 
 .right-title {
     position: relative;
     font-size: 36px;
-    color: #15e8d3;
+    color: #fff;
     font-weight: 900;
     margin: 0px 0px 20px;
     padding: 0 20px;
@@ -346,7 +346,7 @@ header .logo img {
     font-weight: 600;
     font-size: 2.25rem;
     line-height: 32px;
-    color: #15e8d3;
+    color: #fff;
     height: 100px;
     cursor: pointer;
     transition-duration: 0.3s;
@@ -371,7 +371,7 @@ header .logo img {
 
 
 .wallet-address {
-    color: #15e8d3;
+    color: #fff;
     text-shadow: rgb(0, 162, 209) 0px 4px 3px;
     text-align: center;
     display: none;
@@ -428,7 +428,7 @@ header .logo img {
     .token{
     width: 60%;
     margin-top: 50px;
-    color: #15e8d3;
+    color: #fff;
     }
 
     .wallet-adapter-button .wallet-adapter-button-start-icon {
