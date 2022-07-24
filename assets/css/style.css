@@ -336,14 +336,14 @@ header .logo img {
     align-items: center;
 }
 #root button {
-    font-family: Bebas Neue;
+    font-family: Beach;
     text-transform: uppercase;
     position: relative;
     display: flex;
     align-items: center;
     border-radius: 6px;
-    font-weight: 600;
-    font-size: 2.25rem;
+    font-weight: 300;
+    font-size: 1.25rem;
     line-height: 32px;
     color: #fff;
     height: 100px;
