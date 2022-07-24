@@ -1,21 +1,21 @@
-@font-face { font-family: BebasNeue; src: url('BebasNeue.ttf'); } 
+@font-face { font-family: Beach; src: url('Beach.otf'); } 
 
 * {
     box-sizing: border-box;
     scroll-behavior: smooth;
-    font-family: 'BebasNeue', sans-serif
+    font-family: 'Beach', sans-serif
 }
 
 head {
 
-    font-family: 'BebasNeue', sans-serif
+    font-family: 'Beach', sans-serif
 
 }
 
 body {
     
     overflow-x: hidden;
-    font-family: 'BebasNeue', sans-serif;
+    font-family: 'Beach', sans-serif;
     background-color: #e9ecf9;
     color: rgb(0, 0, 0);
     display: flex;
