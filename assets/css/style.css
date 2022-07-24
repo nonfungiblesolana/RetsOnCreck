@@ -112,7 +112,7 @@ header .logo img {
 
 .main-area__right {
     width: 100%;
-    border: 5px solid #e1e9f6;
+    border: 5px solid #3147e8;
     border-image: #3147e8;
     padding: 40px;
     position: relative;
@@ -183,7 +183,7 @@ header .logo img {
 .token-line .progress-line {
     position: absolute;
     inset: 0px;
-    background: #e1e9f6;
+    background: #3147e8;
     height: 5px;
     border-radius: 6px;
 }
@@ -350,7 +350,7 @@ header .logo img {
     cursor: pointer;
     transition-duration: 0.3s;
     justify-content: center !important;
-    background: #e1e9f6;
+    background: #3147e8;
     margin-top: 20px;
     margin-bottom: 10px;
     transition: 0.5s;
