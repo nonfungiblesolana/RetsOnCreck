@@ -317,7 +317,7 @@ header .logo img {
 }
 
 .price {
-    color: #2e437c;
+    color: #eb8ca2;
     margin: 10px 0px 30px;
     display: flex;
     align-items: center;
@@ -345,12 +345,12 @@ header .logo img {
     font-weight: 600;
     font-size: 2.25rem;
     line-height: 32px;
-    color: #2e437c;
+    color: #fff;
     height: 100px;
     cursor: pointer;
     transition-duration: 0.3s;
     justify-content: center !important;
-    background: #3147e8;
+    background: #3cc78c;
     margin-top: 20px;
     margin-bottom: 10px;
     transition: 0.5s;
