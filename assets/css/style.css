@@ -16,7 +16,7 @@ body {
     
     overflow-x: hidden;
     font-family: 'BebasNeue', sans-serif;
-    background-color: #000;
+    background-color: #e1e9f6;
     color: rgb(0, 0, 0);
     display: flex;
     justify-content: center;
@@ -113,10 +113,10 @@ header .logo img {
 .main-area__right {
     width: 100%;
     border: 5px solid;
-    border-image: linear-gradient( 87.22deg, #1978f3 5.62%, #00b4ff 50.96% ) 1;
+    border-image: #3147e8;
     padding: 40px;
     position: relative;
-    background: #000;
+    background: #e1e9f6;
     margin-top: 96px;
     margin-bottom: 24px;
     
